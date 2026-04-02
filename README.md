@@ -4,6 +4,8 @@
 
 ## Demo
 
+https://github.com/user-attachments/assets/ca90d6d6-e34d-4b8e-b7fb-64bea08b9c5a
+
 It prints a table with:
 
 - `HOST`: the SSH alias from your config
