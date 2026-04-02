@@ -2,6 +2,8 @@
 
 `ssh-graveyard` is a small Bash utility that reads your SSH config, lists concrete `Host` entries, and checks which targets still respond to `ping`.
 
+## Demo
+
 It prints a table with:
 
 - `HOST`: the SSH alias from your config
@@ -29,6 +31,12 @@ Or point it at a different SSH config:
 
 ```bash
 SSH_CONFIG=/path/to/config ./graveyard.sh
+```
+
+For the bundled safe demo config:
+
+```bash
+SSH_CONFIG=./demo/demo-ssh-config ./graveyard.sh
 ```
 
 ## Notes
