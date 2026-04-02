@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/ca90d6d6-e34d-4b8e-b7fb-64bea08b9c5a
+https://github.com/user-attachments/assets/4b9093bf-2895-481b-94ee-ec408a8700ee
 
 It prints a table with:
 
